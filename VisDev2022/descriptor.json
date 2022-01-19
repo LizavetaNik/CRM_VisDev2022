@@ -1,0 +1,18 @@
+﻿{
+  "Descriptor": {
+    "UId": "61d526d7-4142-e690-3529-2bb3326403e8",
+    "Name": "VisDev2022",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1642591609000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/VisDev2022.csproj",
+    "Description": "VisDev2022",
+    "DependsOn": [
+      {
+        "UId": "d7559847-f38e-410c-baee-6f43bbe80d42",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterpriseSoftkey_ENU"
+      }
+    ]
+  }
+}
